@@ -1,0 +1,13 @@
+C:\Users\alla5274\source\repos\Projektarbete\Projektarbete\obj\Debug\netcoreapp3.1\Projektarbete.csprojAssemblyReference.cache
+C:\Users\alla5274\source\repos\Projektarbete\Projektarbete\obj\Debug\netcoreapp3.1\Projektarbete.AssemblyInfoInputs.cache
+C:\Users\alla5274\source\repos\Projektarbete\Projektarbete\obj\Debug\netcoreapp3.1\Projektarbete.AssemblyInfo.cs
+C:\Users\alla5274\source\repos\Projektarbete\Projektarbete\obj\Debug\netcoreapp3.1\Projektarbete.csproj.CoreCompileInputs.cache
+C:\Users\alla5274\source\repos\Projektarbete\Projektarbete\bin\Debug\netcoreapp3.1\Projektarbete.exe
+C:\Users\alla5274\source\repos\Projektarbete\Projektarbete\bin\Debug\netcoreapp3.1\Projektarbete.deps.json
+C:\Users\alla5274\source\repos\Projektarbete\Projektarbete\bin\Debug\netcoreapp3.1\Projektarbete.runtimeconfig.json
+C:\Users\alla5274\source\repos\Projektarbete\Projektarbete\bin\Debug\netcoreapp3.1\Projektarbete.runtimeconfig.dev.json
+C:\Users\alla5274\source\repos\Projektarbete\Projektarbete\bin\Debug\netcoreapp3.1\Projektarbete.dll
+C:\Users\alla5274\source\repos\Projektarbete\Projektarbete\bin\Debug\netcoreapp3.1\Projektarbete.pdb
+C:\Users\alla5274\source\repos\Projektarbete\Projektarbete\obj\Debug\netcoreapp3.1\Projektarbete.dll
+C:\Users\alla5274\source\repos\Projektarbete\Projektarbete\obj\Debug\netcoreapp3.1\Projektarbete.pdb
+C:\Users\alla5274\source\repos\Projektarbete\Projektarbete\obj\Debug\netcoreapp3.1\Projektarbete.genruntimeconfig.cache
