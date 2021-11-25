@@ -23,10 +23,7 @@ namespace Projektarbete
         {
             public Circle(string shapeName, int x, int y, int Perimeter) : base (shapeName, x, y, Perimeter)
             {
-                this.shapeName = shapeName;
-                this.x = x;
-                this.y = y;
-                this.Perimeter = Perimeter;
+
             }
 
         }
@@ -34,20 +31,14 @@ namespace Projektarbete
         {
             public Square(string shapeName, int x, int y, int Perimeter) : base(shapeName, x, y, Perimeter)
             {
-                this.shapeName = shapeName;
-                this.x = x;
-                this.y = y;
-                this.Perimeter = Perimeter;
+
             }
         }
         class Triangle : Shape
         {            
             public Triangle(string shapeName, int x, int y, int Perimeter) : base(shapeName, x, y, Perimeter)
             {
-                this.shapeName = shapeName;
-                this.x = x;
-                this.y = y;
-                this.Perimeter = Perimeter;
+
             }
         }
 
@@ -55,10 +46,7 @@ namespace Projektarbete
         {
             public Pentagon(string shapeName, int x, int y, int Perimeter) : base(shapeName, x, y, Perimeter)
             {
-                this.shapeName = shapeName;
-                this.x = x;
-                this.y = y;
-                this.Perimeter = Perimeter;
+
             }
         }
         
@@ -66,20 +54,14 @@ namespace Projektarbete
         {
             public Hexagon(string shapeName, int x, int y, int Perimeter) : base(shapeName, x, y, Perimeter)
             {
-                this.shapeName = shapeName;
-                this.x = x;
-                this.y = y;
-                this.Perimeter = Perimeter;
+
             }
         }
         class Heptagon : Shape
         {
             public Heptagon(string shapeName, int x, int y, int Perimeter) : base(shapeName, x, y, Perimeter)
             {
-                this.shapeName = shapeName;
-                this.x = x;
-                this.y = y;
-                this.Perimeter = Perimeter;
+
             }
 
         }
@@ -87,10 +69,7 @@ namespace Projektarbete
         {
             public Octagon(string shapeName, int x, int y, int Perimeter) : base(shapeName, x, y, Perimeter)
             {
-                this.shapeName = shapeName;
-                this.x = x;
-                this.y = y;
-                this.Perimeter = Perimeter;
+
             }
         }
 
