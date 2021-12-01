@@ -1,0 +1,2 @@
+/Users/gabrielbellman/Projects/Pakistan/Pakistan/obj/Debug/Pakistan.csproj.AssemblyReference.cache
+/Users/gabrielbellman/Projects/Pakistan/Pakistan/obj/Debug/Pakistan.csproj.CoreCompileInputs.cache
