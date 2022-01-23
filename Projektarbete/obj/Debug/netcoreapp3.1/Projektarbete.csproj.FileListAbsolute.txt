@@ -1,0 +1,14 @@
+C:\Users\samue\source\repos\Projektarbete\Projektarbete\bin\Debug\netcoreapp3.1\Projektarbete.exe
+C:\Users\samue\source\repos\Projektarbete\Projektarbete\bin\Debug\netcoreapp3.1\Projektarbete.deps.json
+C:\Users\samue\source\repos\Projektarbete\Projektarbete\bin\Debug\netcoreapp3.1\Projektarbete.runtimeconfig.json
+C:\Users\samue\source\repos\Projektarbete\Projektarbete\bin\Debug\netcoreapp3.1\Projektarbete.runtimeconfig.dev.json
+C:\Users\samue\source\repos\Projektarbete\Projektarbete\bin\Debug\netcoreapp3.1\Projektarbete.dll
+C:\Users\samue\source\repos\Projektarbete\Projektarbete\bin\Debug\netcoreapp3.1\Projektarbete.pdb
+C:\Users\samue\source\repos\Projektarbete\Projektarbete\obj\Debug\netcoreapp3.1\Projektarbete.csproj.AssemblyReference.cache
+C:\Users\samue\source\repos\Projektarbete\Projektarbete\obj\Debug\netcoreapp3.1\Projektarbete.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samue\source\repos\Projektarbete\Projektarbete\obj\Debug\netcoreapp3.1\Projektarbete.AssemblyInfoInputs.cache
+C:\Users\samue\source\repos\Projektarbete\Projektarbete\obj\Debug\netcoreapp3.1\Projektarbete.AssemblyInfo.cs
+C:\Users\samue\source\repos\Projektarbete\Projektarbete\obj\Debug\netcoreapp3.1\Projektarbete.csproj.CoreCompileInputs.cache
+C:\Users\samue\source\repos\Projektarbete\Projektarbete\obj\Debug\netcoreapp3.1\Projektarbete.dll
+C:\Users\samue\source\repos\Projektarbete\Projektarbete\obj\Debug\netcoreapp3.1\Projektarbete.pdb
+C:\Users\samue\source\repos\Projektarbete\Projektarbete\obj\Debug\netcoreapp3.1\Projektarbete.genruntimeconfig.cache
