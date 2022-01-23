@@ -1,0 +1,2 @@
+/Users/gabrielbellman/Projects/JACOB/JACOB/obj/Debug/JACOB.csproj.AssemblyReference.cache
+/Users/gabrielbellman/Projects/JACOB/JACOB/obj/Debug/JACOB.csproj.CoreCompileInputs.cache
