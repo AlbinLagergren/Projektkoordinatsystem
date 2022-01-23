@@ -1,0 +1,39 @@
+/Users/oliviagronman/Projects/OOP1Uppgift/OOP1Uppgift/obj/Debug/netcoreapp3.1/OOP1Uppgift.csproj.AssemblyReference.cache
+/Users/oliviagronman/Projects/OOP1Uppgift/OOP1Uppgift/obj/Debug/netcoreapp3.1/OOP1Uppgift.GeneratedMSBuildEditorConfig.editorconfig
+/Users/oliviagronman/Projects/OOP1Uppgift/OOP1Uppgift/obj/Debug/netcoreapp3.1/OOP1Uppgift.AssemblyInfoInputs.cache
+/Users/oliviagronman/Projects/OOP1Uppgift/OOP1Uppgift/obj/Debug/netcoreapp3.1/OOP1Uppgift.AssemblyInfo.cs
+/Users/oliviagronman/Projects/OOP1Uppgift/OOP1Uppgift/obj/Debug/netcoreapp3.1/OOP1Uppgift.csproj.CoreCompileInputs.cache
+/Users/oliviagronman/Projects/OOP1Uppgift/OOP1Uppgift/bin/Debug/netcoreapp3.1/OOP1Uppgift.deps.json
+/Users/oliviagronman/Projects/OOP1Uppgift/OOP1Uppgift/bin/Debug/netcoreapp3.1/OOP1Uppgift.runtimeconfig.json
+/Users/oliviagronman/Projects/OOP1Uppgift/OOP1Uppgift/bin/Debug/netcoreapp3.1/OOP1Uppgift.runtimeconfig.dev.json
+/Users/oliviagronman/Projects/OOP1Uppgift/OOP1Uppgift/bin/Debug/netcoreapp3.1/OOP1Uppgift.dll
+/Users/oliviagronman/Projects/OOP1Uppgift/OOP1Uppgift/bin/Debug/netcoreapp3.1/OOP1Uppgift.pdb
+/Users/oliviagronman/Projects/OOP1Uppgift/OOP1Uppgift/obj/Debug/netcoreapp3.1/OOP1Uppgift.dll
+/Users/oliviagronman/Projects/OOP1Uppgift/OOP1Uppgift/obj/Debug/netcoreapp3.1/OOP1Uppgift.pdb
+/Users/oliviagronman/Projects/OOP1Uppgift/OOP1Uppgift/obj/Debug/netcoreapp3.1/OOP1Uppgift.genruntimeconfig.cache
+/Users/oliviagronman/Desktop/OOP1Uppgiftver2/obj/Debug/netcoreapp3.1/OOP1Uppgift.csproj.AssemblyReference.cache
+/Users/oliviagronman/Desktop/OOP1Uppgiftver2/obj/Debug/netcoreapp3.1/OOP1Uppgift.GeneratedMSBuildEditorConfig.editorconfig
+/Users/oliviagronman/Desktop/OOP1Uppgiftver2/obj/Debug/netcoreapp3.1/OOP1Uppgift.AssemblyInfoInputs.cache
+/Users/oliviagronman/Desktop/OOP1Uppgiftver2/obj/Debug/netcoreapp3.1/OOP1Uppgift.AssemblyInfo.cs
+/Users/oliviagronman/Desktop/OOP1Uppgiftver2/obj/Debug/netcoreapp3.1/OOP1Uppgift.csproj.CoreCompileInputs.cache
+/Users/oliviagronman/Desktop/OOP1Uppgiftver2/obj/Debug/netcoreapp3.1/OOP1Uppgift.dll
+/Users/oliviagronman/Desktop/OOP1Uppgiftver2/obj/Debug/netcoreapp3.1/OOP1Uppgift.pdb
+/Users/oliviagronman/Desktop/OOP1Uppgiftver2/bin/Debug/netcoreapp3.1/OOP1Uppgift.deps.json
+/Users/oliviagronman/Desktop/OOP1Uppgiftver2/bin/Debug/netcoreapp3.1/OOP1Uppgift.runtimeconfig.json
+/Users/oliviagronman/Desktop/OOP1Uppgiftver2/bin/Debug/netcoreapp3.1/OOP1Uppgift.runtimeconfig.dev.json
+/Users/oliviagronman/Desktop/OOP1Uppgiftver2/bin/Debug/netcoreapp3.1/OOP1Uppgift.dll
+/Users/oliviagronman/Desktop/OOP1Uppgiftver2/bin/Debug/netcoreapp3.1/OOP1Uppgift.pdb
+/Users/oliviagronman/Desktop/OOP1Uppgiftver2/obj/Debug/netcoreapp3.1/OOP1Uppgift.genruntimeconfig.cache
+/Users/oliviagronman/Desktop/Projektarbete OOP1/OOP1Uppgiftver2 4/bin/Debug/netcoreapp3.1/OOP1Uppgift.deps.json
+/Users/oliviagronman/Desktop/Projektarbete OOP1/OOP1Uppgiftver2 4/bin/Debug/netcoreapp3.1/OOP1Uppgift.runtimeconfig.json
+/Users/oliviagronman/Desktop/Projektarbete OOP1/OOP1Uppgiftver2 4/bin/Debug/netcoreapp3.1/OOP1Uppgift.runtimeconfig.dev.json
+/Users/oliviagronman/Desktop/Projektarbete OOP1/OOP1Uppgiftver2 4/bin/Debug/netcoreapp3.1/OOP1Uppgift.dll
+/Users/oliviagronman/Desktop/Projektarbete OOP1/OOP1Uppgiftver2 4/bin/Debug/netcoreapp3.1/OOP1Uppgift.pdb
+/Users/oliviagronman/Desktop/Projektarbete OOP1/OOP1Uppgiftver2 4/obj/Debug/netcoreapp3.1/OOP1Uppgift.csproj.AssemblyReference.cache
+/Users/oliviagronman/Desktop/Projektarbete OOP1/OOP1Uppgiftver2 4/obj/Debug/netcoreapp3.1/OOP1Uppgift.GeneratedMSBuildEditorConfig.editorconfig
+/Users/oliviagronman/Desktop/Projektarbete OOP1/OOP1Uppgiftver2 4/obj/Debug/netcoreapp3.1/OOP1Uppgift.AssemblyInfoInputs.cache
+/Users/oliviagronman/Desktop/Projektarbete OOP1/OOP1Uppgiftver2 4/obj/Debug/netcoreapp3.1/OOP1Uppgift.AssemblyInfo.cs
+/Users/oliviagronman/Desktop/Projektarbete OOP1/OOP1Uppgiftver2 4/obj/Debug/netcoreapp3.1/OOP1Uppgift.csproj.CoreCompileInputs.cache
+/Users/oliviagronman/Desktop/Projektarbete OOP1/OOP1Uppgiftver2 4/obj/Debug/netcoreapp3.1/OOP1Uppgift.dll
+/Users/oliviagronman/Desktop/Projektarbete OOP1/OOP1Uppgiftver2 4/obj/Debug/netcoreapp3.1/OOP1Uppgift.pdb
+/Users/oliviagronman/Desktop/Projektarbete OOP1/OOP1Uppgiftver2 4/obj/Debug/netcoreapp3.1/OOP1Uppgift.genruntimeconfig.cache

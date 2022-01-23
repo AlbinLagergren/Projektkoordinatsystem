@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition=" '$(RunConfiguration)' == 'Default' ">
+    <StartAction>Project</StartAction>
+    <StartArguments>"1, 1,5 ;2,2,10"	"SQUARE , 5,3 ,10 ;FYRHÖRNING, 1,1, 12; TRIANGLE, 0, 0, 60;OCTAGON, 1,-20, 15"	" TRIANGLE, 3;SQUARE, 5;OCTAGON;CIRCLE,10;"</StartArguments>
+    <ExternalConsole>true</ExternalConsole>
+  </PropertyGroup>
+</Project>
